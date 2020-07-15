@@ -1,7 +1,3 @@
-// Juan Bondad 30050828
-// Assignment 3
-// Used https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/ as reference for djikstras algorithm
-// Adapted from skeleton code by Carey Williamson
 
 #include <stdio.h>
 #include <stdlib.h>

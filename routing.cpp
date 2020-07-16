@@ -72,7 +72,7 @@ int minDistance(float dist[],
 }
 
 
-// Reference https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/
+
 // Djikstras algorithm, gets the path from source to destination
 int djikstra(int src,int dst, Event *event, int algorithm) 
 { 
